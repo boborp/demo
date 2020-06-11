@@ -2,11 +2,9 @@ package com.monster.sb.demo.app.infrastructure;
 
 import com.monster.sb.demo.domain.User;
 import com.monster.sb.demo.domain.UserRepository;
-import com.monster.sb.demo.app.models.UserModel;
 import org.springframework.stereotype.Repository;
 
 import java.time.Instant;
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
